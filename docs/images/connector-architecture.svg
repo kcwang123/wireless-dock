@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<style>
+text{font-family:Arial,"Noto Sans TC",sans-serif;fill:#172033}.title{font-size:34px;font-weight:700}.h{font-size:25px;font-weight:700}.t{font-size:19px}
+.m{fill:#e8f0fb;stroke:#2d65a1;stroke-width:3}.f{fill:#e9f6ea;stroke:#3b7f48;stroke-width:3}.bridge{fill:#555;stroke:#222;stroke-width:2}
+.arrow{stroke:#58677b;stroke-width:4;marker-end:url(#a)}
+</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#58677b"/></marker></defs>
+<text x="35" y="55" class="title">Module connection architecture</text>
+<text x="60" y="115" class="h">Horizontal — left/right sliding joint</text>
+<rect x="80" y="150" width="260" height="210" rx="18" class="m"/>
+<polygon points="340,220 395,235 395,275 340,290" fill="#2d65a1"/>
+<rect x="500" y="150" width="260" height="210" rx="18" class="f"/>
+<polygon points="500,215 445,230 445,280 500,295" fill="#fff" stroke="#3b7f48" stroke-width="3"/>
+<line x1="395" y1="255" x2="440" y2="255" class="arrow"/>
+<text x="420" y="395" text-anchor="middle" class="t">Male/female dovetail or slide; current total prototype clearance 0.6 mm</text>
+<text x="60" y="470" class="h">Front/rear — bridge connector</text>
+<rect x="90" y="505" width="250" height="100" rx="18" class="m"/>
+<rect x="760" y="505" width="250" height="100" rx="18" class="f"/>
+<rect x="420" y="530" width="260" height="50" rx="10" class="bridge"/>
+<line x1="340" y1="555" x2="415" y2="555" class="arrow"/>
+<line x1="680" y1="555" x2="755" y2="555" class="arrow"/>
+<text x="550" y="620" text-anchor="middle" class="t">A separate bridge keeps device holders simple and enables person-centric columns.</text>
+</svg>
