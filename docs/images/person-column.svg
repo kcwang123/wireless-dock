@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<style>
+text{font-family:Arial,"Noto Sans TC",sans-serif;fill:#172033}
+.title{font-size:34px;font-weight:700}.h{font-size:24px;font-weight:700}.t{font-size:20px}
+.box{fill:#f7f9fc;stroke:#44546a;stroke-width:3;rx:18}.tag{fill:#eef2f7;stroke:#44546a;stroke-width:3}
+.iem{fill:#e9f6ea;stroke:#3b7f48;stroke-width:3}.mic{fill:#e8f0fb;stroke:#2d65a1;stroke-width:3}
+.arrow{stroke:#57657a;stroke-width:3;marker-end:url(#a)}
+</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#57657a"/></marker></defs>
+<text x="40" y="55" class="title">Person-centric module column</text>
+<text x="40" y="90" class="t">1 person = 1 Tag + 1 IEM + 1 Mic UniSlot</text>
+<rect x="260" y="120" width="380" height="120" class="mic"/>
+<text x="450" y="170" text-anchor="middle" class="h">Mic UniSlot</text>
+<text x="450" y="205" text-anchor="middle" class="t">Shure SLXD or MIPRO ACT-5/7</text>
+<line x1="450" y1="245" x2="450" y2="280" class="arrow"/>
+<rect x="260" y="290" width="380" height="105" class="iem"/>
+<text x="450" y="335" text-anchor="middle" class="h">Sennheiser EK IEM G4</text>
+<text x="450" y="368" text-anchor="middle" class="t">Dedicated IEM holder</text>
+<line x1="450" y1="400" x2="450" y2="435" class="arrow"/>
+<rect x="260" y="445" width="380" height="80" class="tag"/>
+<text x="450" y="493" text-anchor="middle" class="h">Electronic Tag</text>
+<text x="680" y="184" class="t">rear</text>
+<text x="680" y="495" class="t">front</text>
+</svg>
