@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+<style>
+text{font-family:Arial,"Noto Sans TC",sans-serif;fill:#162033}.title{font-size:34px;font-weight:700}.h{font-size:24px;font-weight:700}.t{font-size:19px}
+.slot{fill:#edf3fa;stroke:#2d65a1;stroke-width:3}.device{fill:#20252d;stroke:#111;stroke-width:2}.note{fill:#fff7df;stroke:#c88a00;stroke-width:3}
+</style>
+<text x="35" y="55" class="title">UniSlot concept — one slot, one transmitter</text>
+<text x="35" y="92" class="t">The same mechanical slot accepts either a handheld OR a bodypack. Never both at once.</text>
+<rect x="90" y="150" width="350" height="360" rx="28" class="slot"/>
+<rect x="225" y="180" width="80" height="255" rx="38" class="device"/>
+<circle cx="265" cy="168" r="58" class="device"/>
+<text x="265" y="475" text-anchor="middle" class="h">Handheld mode</text>
+<text x="510" y="320" text-anchor="middle" class="title">OR</text>
+<rect x="650" y="150" width="350" height="360" rx="28" class="slot"/>
+<rect x="745" y="235" width="160" height="185" rx="18" class="device"/>
+<line x1="885" y1="235" x2="905" y2="165" stroke="#111" stroke-width="8"/>
+<text x="825" y="475" text-anchor="middle" class="h">Bodypack mode</text>
+<rect x="250" y="535" width="600" height="60" rx="14" class="note"/>
+<text x="550" y="573" text-anchor="middle" class="h">Target families: Shure SLXD1/2 · MIPRO ACT-5/7</text>
+</svg>
