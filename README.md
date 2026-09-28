@@ -12,6 +12,16 @@ This project is focused on the equipment we actually need to manage:
 
 The design goal is not a large fixed frame. Every holder is an independent module that can connect to the modules beside it and in front/behind it.
 
+## Concept diagrams
+
+![System layout](docs/images/system-layout.svg)
+
+![Person column](docs/images/person-column.svg)
+
+![UniSlot concept](docs/images/unislot-concept.svg)
+
+![Connector architecture](docs/images/connector-architecture.svg)
+
 ## Core workflow
 
 The basic layout is **person-centric**:
